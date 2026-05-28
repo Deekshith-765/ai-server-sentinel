@@ -1,0 +1,16 @@
+2025-05-27 08:15:30 INFO Login successful for user alice from 192.168.1.10
+2025-05-27 08:16:45 INFO Login successful for user bob from 192.168.1.11
+2025-05-27 08:17:02 INFO Logout for user alice session 3421
+2025-05-27 08:18:30 INFO Login successful for user charlie from 192.168.1.12
+2025-05-27 08:19:15 INFO File read: /home/alice/report.pdf by alice
+2025-05-27 08:20:00 INFO Login successful for user dave from 192.168.1.13
+2025-05-27 08:21:33 INFO Database query completed by bob
+2025-05-27 08:22:10 INFO Login successful for user eve from 192.168.1.14
+2025-05-27 08:23:45 INFO File write: /home/bob/notes.txt by bob
+2025-05-27 08:24:00 INFO Login successful for user frank from 192.168.1.15
+2025-05-27 08:25:12 INFO Logout for user charlie session 3422
+2025-05-27 08:26:30 INFO Login successful for user grace from 192.168.1.16
+2025-05-27 08:27:00 INFO Backup job completed successfully
+2025-05-27 08:28:15 INFO Login successful for user henry from 192.168.1.17
+2025-05-27 08:29:45 INFO Health check passed - all services running
+2025-05-27 08:30:00 INFO Login successful for user iris from 192.168.1.18

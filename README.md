@@ -1,14 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DevSecOps%20Intelligent%20Monitoring%20System&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Real-Time%20Metrics%20%7C%20ML%20Security%20Classification%20%7C%20Predictive%20Failure%20Detection&descAlignY=65&descSize=13" width="100%"/>
-<div align="center">
-![Python](https://img.shields.io/badge/Python%203-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
- 
-</div>
----
+
  
 ## Overview
  
